@@ -17,8 +17,14 @@ function Intro() {
                 </section>
                 <section className="portfolio-intro-card-content-wrapper">
                     <img src={profileImage}/>
-                    <h2>Vasudev Harshal</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <h2>Prakhar Srivastava</h2>
+                    <p>2023	Degree in Bachelor of Technology C.S.E. w/ 7.56 CGPA.</p>
+                    <p> Lovely Professional University, Jalandhar, Punjab</p>
+                    <p> 2019 Intermediate with PCMC Stream from C.B.S.E Board</p>
+                    <p> St. Patrick’s Sr. Sec. School, Jaunpur, Uttar Pradesh</p>
+                    <p> 2017	High School form C.B.S.E Board with 8.4 CGPA</p>
+                    <p> St. Patrick’s Sr. Sec. School, Jaunpur, Uttar Pradesh</p>
+
                     <div className="resume-CTA"><Link className="resume-link" to="resume">Resume</Link></div>
                 </section>
             </section>

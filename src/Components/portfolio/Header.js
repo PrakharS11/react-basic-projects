@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import profileImage from "../../Resources/Images/dic6.PNG";
+import profileImage from "../../Resources/Images/logolpu.jpg";
 import Hamburger from "./Hamburger";
 import "./styles/Header.css";
 import { MenuFoldOutlined, MenuOutlined } from "@ant-design/icons";
@@ -15,7 +15,7 @@ function Header(props) {
         <Hamburger isHamburgerOpen={isHamburgerOpen} setIsHamburgerOpen={setIsHamburgerOpen}/>
         <section className='portfolio-header-name-wrapper'>
             <img src={profileImage}/>
-            <h1>Vasudev Harshal</h1>
+            <h1>Lovely Professional University</h1>
         </section>
 
         <section className='portfolio-header-nav-wrapper'>
